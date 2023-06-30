@@ -1,6 +1,11 @@
+To reproduce
+```
+Darwin dev-team.local 21.4.0 Darwin Kernel Version 21.4.0: Fri Mar 18 00:45:05 PDT 2022; root:xnu-8020.101.4~15/RELEASE_X86_64 x86_64
+npx create-next-app@latest --js --use-yarn
+Add server code following https://nextjs.org/docs/pages/building-your-application/configuring/custom-server
+```
 
 ```bash
-# or
 yarn dev
 ```
 
