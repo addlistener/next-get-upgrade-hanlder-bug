@@ -10,7 +10,7 @@ yarn dev
 ```
 
 The error
-```baash
+```bash
 $ node server.js
 > Ready on http://localhost:3000
 - event compiled client and server successfully in 345 ms (20 modules)
